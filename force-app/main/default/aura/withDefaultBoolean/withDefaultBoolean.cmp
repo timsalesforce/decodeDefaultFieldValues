@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+
+  <lightning:button label="Create Test Object" variant='brand' onclick="{!c.createTestObject}" />
+
+</aura:component>
