@@ -1,6 +1,9 @@
-# Salesforce DX Project: Next Steps
+# W-13666306 -- Swarm - 44836368 - Bullhorn, Inc (Main Org) - Lightning page throwing runtime error with conditional field selection
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+To repro:
+1. Clone this repo
+2. Enable Dynamic Fields for Test Object
+3. Add a visibility rule for 
 
 ## How Do You Plan to Deploy Your Changes?
 
